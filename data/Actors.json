@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[0,0,0,1,0,2,3],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"พิชญ์พิสิฐฏ์เสฏ","nickname":"พิชญ์","note":"","profile":"นายพรานหนุ่ม นิสัยอินดี้ ยิงปืนแม่น จิตใจโอบอ้อมอารี"},
+{"id":2,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":2,"equips":[0,0,0,1,0,2,3],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"กุญสิริลัญฉกร","nickname":"กุญ","note":"","profile":"สาวน้อยผู้สืบสายเลือดในตำนาน"},
+{"id":3,"battlerName":"f1_battler","characterIndex":0,"characterName":"my_actress_walk_1","classId":3,"equips":[0,0,9,1,0,2,3],"faceIndex":0,"faceName":"my_actress_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"นัฐตร์ฐานันทตร์","nickname":"นัฐ","note":"","profile":"เด็กสาววัยรุ่น ใสซื่อบริสุทธิ์ ไม่นิยมใช้ความรุนแรง"},
+{"id":4,"battlerName":"Actor3_6","characterIndex":5,"characterName":"Actor3","classId":4,"equips":[0,0,0,1,0,2,3],"faceIndex":5,"faceName":"Actor3","traits":[],"initialLevel":10,"maxLevel":99,"name":"สาวนิรนาม","nickname":"สาวนิรนาม","note":"","profile":"หญิงสาวนิรนาม ไม่มีชื่อสกุล ไม่รู้ที่มาที่ไป ไม่รู้อะไรเลยซักอย่าง"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

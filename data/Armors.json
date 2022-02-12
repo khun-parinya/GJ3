@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"เสื้อโปโลทำจากผ้าใยสังเคราะห์ ใส่สบายกันรังสียูวี","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"เสื้อโปโล","note":"","params":[0,0,0,5,0,0,0,0],"price":10},
+{"id":2,"atypeId":1,"description":"ถุงมือผ้าธรรมดา ทอด้วยใยสังเคราะห์","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":142,"name":"ถุงมือ","note":"","params":[0,0,0,0,0,5,0,0],"price":10},
+{"id":3,"atypeId":1,"description":"รองเท้าผ้าใบหุ้มส้นธรรมดา ใส่สบายอากาศถ่ายเท","etypeId":7,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":140,"name":"รองเท้าผ้าใบ","note":"","params":[0,0,0,0,0,0,5,0],"price":10},
+{"id":4,"atypeId":2,"description":"แหวนทองแดง ทำจากทองแดง เพิ่มพลังเวทย์โจมตี","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"แหวนทองแดง","note":"","params":[0,0,0,0,40,0,10,0],"price":0},
+{"id":5,"atypeId":2,"description":"แหวนเงิน ทำจากเงิน เพิ่มพลังเวทย์โจมตี","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"แหวนเงิน","note":"","params":[0,0,0,0,60,0,20,0],"price":0},
+{"id":6,"atypeId":2,"description":"แหวนทอง ทำจากทอง เพิ่มพลังเวทย์โจมตี","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"แหวนทอง","note":"","params":[0,0,0,0,80,0,30,0],"price":0},
+{"id":7,"atypeId":2,"description":"จี้ห้อยคอผนึกอัญมณีนพเก้า เพิ่มพลังเวทย์สูงสุด","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":147,"name":"แสงแห่ง Gemini","note":"","params":[0,0,0,0,100,0,50,0],"price":0},
+{"id":8,"atypeId":1,"description":"ใส่แล้วอบอุ่น หนังเกือบเหนียว เกือบอยู่ยง เกือบคงกระพัน\nเกือบฟันแทงไม่เข้า","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"เสื้อคลุม","note":"","params":[0,0,0,50,0,50,0,0],"price":0},
+{"id":9,"atypeId":3,"description":"หมวกผ้าใบธรรมดา ใส่แล้วเย็นสบาย","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"หมวกผ้าใบ","note":"","params":[0,0,0,5,0,0,0,0],"price":0},
+{"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
